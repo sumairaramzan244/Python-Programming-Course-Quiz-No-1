@@ -8,3 +8,9 @@ In the first quiz, I scored 17 out of 20 marks, which is 85% accuracy. Out of 20
 
 More quizzes and progress updates will be added here as the course continues.  
 
+# Ownership  
+Author  : Sumaira Ramzan  
+Program : Punjab Hunarmand, Python Programming Course — Batch 3  
+City    : Punjab, Pakistan  
+Lecture : Quiz 1
+Status  : In Progress  
